@@ -17,7 +17,7 @@ The portfolio currently includes documentation related to data flow analysis, Pr
 | Document | Description | Status |
 |----------|-------------|:------:|
 | [Data Flow Mapping](./Data%20Flow%20Mapping.pdf) | Maps the flow of personal data throughout the solution. | ✅ |
-| [Privacy by Design Review](./Privacy%20by%20Design%20Review.pdf) | Assesses compliance with GDPR Article 25 and Privacy by Design principles. | ✅ |
+| [Privacy by Design Review](./Privacy%20by%20Design.pdf) | Assesses compliance with GDPR Article 25 and Privacy by Design principles. | ✅ |
 | [DPIA Screening](./DPIA%20Screening.pdf) | Determines whether a full DPIA is required. | ✅ |
 | Record of Processing Activities (ROPA) | Documents processing activities in accordance with Article 30 GDPR. | ⏳ |
 | Information Security Management System (ISMS) | Demonstrates ISO/IEC 27001 governance documentation. | ⏳ |
