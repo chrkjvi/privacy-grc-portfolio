@@ -16,6 +16,7 @@ The portfolio currently includes documentation related to data flow analysis, Pr
 
 | Document | Description | Status |
 |----------|-------------|:------:|
+| [Veltrixa Case Description](./Veltrixa%20Case%20Description.pdf) | Provides the business context, solution overview, system architecture, and project scope for the case study. | ✅ |
 | [Data Flow Mapping](./Data%20Flow%20Mapping.pdf) | Maps the flow of personal data throughout the solution. | ✅ |
 | [Privacy by Design Review](./Privacy%20by%20Design.pdf) | Assesses compliance with GDPR Article 25 and Privacy by Design principles. | ✅ |
 | [DPIA Screening](./DPIA%20Screening.pdf) | Determines whether a full DPIA is required. | ✅ |
