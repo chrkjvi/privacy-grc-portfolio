@@ -2,23 +2,23 @@
 
 ## Executive Summary
 
-Veltrixa is a fictional AI-powered SaaS platform developed as a realistic case study to demonstrate how privacy, data protection, and information security can be integrated into the design, implementation, and governance of a cloud service.
+Veltrixa is a fictional AI-powered SaaS platform developed as a realistic case study demonstrating how privacy, data protection, governance, risk management, and information security can be integrated into the design, implementation, and operation of a cloud service.
 
-The project demonstrates a practical compliance approach based on GDPR and ISO/IEC 27001, covering the complete documentation process, from understanding personal data flows and applying Privacy by Design principles to establishing governance documentation and information security controls.
+The project demonstrates a practical compliance approach based on the GDPR and ISO/IEC 27001. It covers the development of documentation typically produced during the implementation of a Privacy and Information Security Management programme, from understanding personal data flows and applying Privacy by Design principles to establishing an Information Security Management System (ISMS).
 
 ## Project Scope
 
-The project covers the development of core GDPR and ISO/IEC 27001 documentation for the fictional Veltrixa platform.
+The project covers the development of practical GDPR and ISO/IEC 27001 documentation for the fictional Veltrixa platform.
 
-The portfolio currently includes documentation related to data flow analysis, Privacy by Design, and DPIA screening. Additional governance documentation, including a Record of Processing Activities (ROPA) and an Information Security Management System (ISMS), will be added as the project progresses.
+The portfolio currently includes documentation related to data flow analysis, Privacy by Design, DPIA screening, and an ISO/IEC 27001 Information Security Management System (ISMS). Additional GDPR governance documentation, including a Record of Processing Activities (ROPA), will be added as the project progresses.
 
 ## Available Documentation
 
 | Document | Description | Status |
 |----------|-------------|:------:|
-| [Veltrixa Case Description](./Veltrixa%20Case%20Description.pdf) | Provides the business context, solution overview, system architecture, and project scope for the case study. | ✅ |
-| [Data Flow Mapping](./Data%20Flow%20Mapping.pdf) | Maps the flow of personal data throughout the solution. | ✅ |
+| [Veltrixa Case Description](./Veltrixa%20Case%20Description.pdf) | Business context, solution overview, system architecture, and project scope for the case study. | ✅ |
+| [Data Flow Mapping](./Data%20Flow%20Mapping.pdf) | Maps the flow of personal data throughout the platform. | ✅ |
 | [Privacy by Design Review](./Privacy%20by%20Design.pdf) | Assesses compliance with GDPR Article 25 and Privacy by Design principles. | ✅ |
-| [DPIA Screening](./DPIA%20Screening.pdf) | Determines whether a full DPIA is required. | ✅ |
-| Record of Processing Activities (ROPA) | Documents processing activities in accordance with Article 30 GDPR. | ⏳ |
-| Information Security Management System (ISMS) | Demonstrates ISO/IEC 27001 governance documentation. | ⏳ |
+| [DPIA Screening](./DPIA%20Screening.pdf) | Assesses whether processing is likely to require a full Data Protection Impact Assessment. | ✅ |
+| [ISO/IEC 27001 Information Security Management System (ISMS)](./ISMS/) | Complete ISMS documentation, including governance, risk management, Statement of Applicability, policies, internal audit, management review, and corrective action processes. | ✅ |
+| Record of Processing Activities (ROPA) | Documents processing activities in accordance with GDPR Article 30. | ⏳ |
