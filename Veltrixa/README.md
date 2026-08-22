@@ -17,7 +17,7 @@ The portfolio currently includes documentation related to data flow analysis, Pr
 | Document | Description | Status |
 |----------|-------------|:------:|
 | [Veltrixa Case Description](./Veltrixa%20Case%20Description.pdf) | Business context, solution overview, system architecture, and project scope for the case study. | ✅ |
-| [Data Flow Mapping](./Veltrixa%20Data%20Flow%20Mapping.pdf) | Maps the flow of personal data throughout the platform. | ✅ |
+| [Data Flow Mapping](./Data%20Flow%20Mapping.pdf) | Maps the flow of personal data throughout the platform. | ✅ |
 | [Privacy by Design Review](./Privacy%20by%20Design.pdf) | Assesses compliance with GDPR Article 25 and Privacy by Design principles. | ✅ |
 | [DPIA Screening](./DPIA%20Screening.pdf) | Assesses whether processing is likely to require a full Data Protection Impact Assessment. | ✅ |
 | [ISO/IEC 27001 Information Security Management System (ISMS)](./ISMS/) | Complete ISMS documentation, including governance, risk management, Statement of Applicability, policies, internal audit, management review, and corrective action processes. | ✅ |
