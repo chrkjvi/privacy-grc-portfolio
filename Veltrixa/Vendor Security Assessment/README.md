@@ -18,6 +18,6 @@ The assessment is designed as a portfolio work sample demonstrating practical Ve
 
 ## Assessment File
 
-[Open / download the full Vendor Security Assessment](Veltrixa/Vendor Security Assessment/Vendor Security Assessment.xlsx)
+[Open / download the full Vendor Security Assessment](./Vendor%20Security%20Assessment.xlsx)
 
 > **Portfolio note:** This is an independent educational portfolio assessment based solely on publicly available information. AWS did not participate in or attest to the assessment.
