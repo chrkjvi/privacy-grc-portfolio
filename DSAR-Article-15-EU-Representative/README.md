@@ -14,8 +14,8 @@ The exercise demonstrates how I evaluate a request, distinguish legal requiremen
 
 | # | File | Purpose |
 |---|---|---|
-| 01 | [**DSAR Case Study — Northstar Outfitters**](./01-DSAR-Case-Study-Northstar-Outfitters.docx) | The original scenario, data processing background, request, known facts, and open questions. |
-| 02 | [**Operational Assessment & Decision Record**](./02-DSAR-Operational-Assessment-and-Decision-Record.docx) | My issue-by-issue assessment and rationale across a practical 12-stage DSAR process, including legal references, proposed actions, and limitations. |
+| 01 | [**DSAR Case Study — Northstar Outfitters**](./01-DSAR-Case-Study-Northstar-Outfitters.pdf) | The original scenario, data processing background, request, known facts, and open questions. |
+| 02 | [**Operational Assessment & Decision Record**](./02-DSAR-Operational-Assessment-and-Decision-Record.pdf) | My issue-by-issue assessment and rationale across a practical 12-stage DSAR process, including legal references, proposed actions, and limitations. |
 | 03 | [**DSAR Case Tracker**](./03-DSAR-Case-Tracker.xlsx) | An Excel-based example of tracking case information, the requested categories, stages, responsibility, deadlines, and proposed actions. |
 
 ## Areas assessed
